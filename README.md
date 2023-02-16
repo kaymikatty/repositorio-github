@@ -1,2 +1,2 @@
 # repositorio-github
-practica
+Mi primer README
